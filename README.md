@@ -58,21 +58,7 @@ pco2box.plot_tmat_wind_mld()
 This should create a folder called `pCO2box_figs` with the figures used in the paper.
 
 ## Links
-
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
-- Project homepage: https://your.github.com/awesome-project/
-- Repository: https://github.com/your/awesome-project/
-- Issue tracker: https://github.com/your/awesome-project/issues
-  - In case of sensitive bugs like security vulnerabilities, please contact
-    my@email.com directly instead of using issue tracker. We value your effort
-    to improve the security and privacy of this project!
-- Related projects:
-  - Your other project: https://github.com/your/other-project/
-  - Someone else's project: https://github.com/someones/awesome-project/
-
+- Publication where the model is used: https://doi.org/10.1038/s41467-020-16530-z
 
 ## Licensing
 The code in this project is licensed under MIT license.
