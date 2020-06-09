@@ -5,6 +5,9 @@
 
 This package includes all code neccessary to run simulation and generate figues for the paper "Controls on Surface Water Carbonate Chemistry along North American Ocean Margins" by Cai et al.
 
+[![DOI](https://zenodo.org/badge/265185169.svg)](https://zenodo.org/badge/latestdoi/265185169)
+
+
 ## Background and boundary conditions
 To study the relationships that control surface ocean carbonate parameters and air-sea CO2 fluxes, we use a box model to representing an idealized mixed layer. The box model is simulating the carbonate systems as a homogenous surface-ocean water mass located either in the North-West Atlantic (NWA, 40.1-42.5°N, 69.2-67.5°W), South Atlantic Bight (28.3°N–29.7°N, 77.6°W–79.2°W), or the California Current System (CCS, 40.8–41.6°N, 124.5–125°W). The model is driven by realistic temperatures and salinities from the Mercator 1/12° data-assimilated General Circulation Model with a daily resolution in time[^1]. 
 
